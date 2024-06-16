@@ -1,0 +1,3 @@
+*.properties
+*.config
+.DS_Store
